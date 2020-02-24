@@ -43,8 +43,12 @@ NaN
 
 0/0
 
+
+# notacion cientifica
 2^50# = 1.1259e+15 = 1125900000000000 
 
+# el e-5 se corre el numero 5 veces a la izquierda a partir de la coma
+# en R la coma representa el punto
 2 ^(-15) # 3.051758e-05 = 0.00003051758
 
 c(2^30, 2^(-15), 1, 2, 3/2)
