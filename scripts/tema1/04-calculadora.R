@@ -43,8 +43,12 @@ NaN
 
 0/0
 
+
+# notacion cientifica
 2^50# = 1.1259e+15 = 1125900000000000 
 
+# el e-5 se corre el numero 5 veces a la izquierda a partir de la coma
+# en R la coma representa el punto
 2 ^(-15) # 3.051758e-05 = 0.00003051758
 
 c(2^30, 2^(-15), 1, 2, 3/2)
@@ -69,6 +73,9 @@ factorial(4)
 
 factorial(0)
 
+#numero convinatorio o *coeficiente binomial*
+#define las formas de ordenar nelementos
+# sumatoria (hasta de m)= n!/ m!(n-m)
 choose(5, 3)
 
 choose(3,5)
@@ -77,6 +84,8 @@ log(4^6, 4)
 
 6^log(4,6)
 
+#calculadora basica con coeficiente binomial
+# util para calcular triangulo de pascal
 choose(5,2)
 
 sin(60*pi/180)

@@ -6,6 +6,6 @@ install.packages("magic", dep = TRUE)
 
 library(magic)
 
-magic(6)
+magic(7)
 
 installed.packages()
